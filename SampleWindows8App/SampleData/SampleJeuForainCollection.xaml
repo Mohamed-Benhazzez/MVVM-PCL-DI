@@ -1,0 +1,61 @@
+﻿<samplemodel:SampleJeuForainCollection
+    xmlns:samplemodel="using:Models.Sample"
+    xmlns:collection="using:System.Collections.ObjectModel"
+    >
+    <model:JeuForain
+        xmlns:model="using:Models"
+        Categorie="Attraction"
+        Arrondissement="18e arrondissement"
+        Horraires="16h-23h"
+        Lieux="Place des fêtes"
+    />
+    <model:JeuForain
+        xmlns:model="using:Models"
+        Categorie="Attraction"
+        Arrondissement="18e arrondissement"
+        Horraires="16h-23h"
+        Lieux="Place des fêtes"
+    />
+    <model:JeuForain
+        xmlns:model="using:Models"
+        Categorie="Attraction"
+        Arrondissement="18e arrondissement"
+        Horraires="16h-23h"
+        Lieux="Place des fêtes"
+    />
+    <model:JeuForain
+        xmlns:model="using:Models"
+        Categorie="Attraction"
+        Arrondissement="18e arrondissement"
+        Horraires="16h-23h"
+        Lieux="Place des fêtes"
+    />
+    <model:JeuForain
+        xmlns:model="using:Models"
+        Categorie="Attraction"
+        Arrondissement="18e arrondissement"
+        Horraires="16h-23h"
+        Lieux="Place des fêtes"
+    />
+    <model:JeuForain
+        xmlns:model="using:Models"
+        Categorie="Attraction"
+        Arrondissement="18e arrondissement"
+        Horraires="16h-23h"
+        Lieux="Place des fêtes"
+    />
+    <model:JeuForain
+        xmlns:model="using:Models"
+        Categorie="Attraction"
+        Arrondissement="18e arrondissement"
+        Horraires="16h-23h"
+        Lieux="Place des fêtes"
+    />
+    <model:JeuForain
+        xmlns:model="using:Models"
+        Categorie="Attraction"
+        Arrondissement="18e arrondissement"
+        Horraires="16h-23h"
+        Lieux="Place des fêtes"
+    />
+</samplemodel:SampleJeuForainCollection>

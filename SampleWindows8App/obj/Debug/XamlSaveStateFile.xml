@@ -1,0 +1,10 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <ReferenceAssembly PathName="c:\users\t.tournier\documents\visual studio 2013\projects\mvvm-pcl-di\packages\mvvmlightlibs.4.2.30.0\lib\netcore45\galasoft.mvvmlight.extras.win8.dll" HashGuid="f1644a38-c628-2fde-5283-4e777988788a" />
+    <ReferenceAssembly PathName="c:\users\t.tournier\documents\visual studio 2013\projects\mvvm-pcl-di\packages\mvvmlightlibs.4.2.30.0\lib\netcore45\galasoft.mvvmlight.win8.dll" HashGuid="0e89fba1-9317-cee7-b759-aaaceabef9d3" />
+    <ReferenceAssembly PathName="c:\users\t.tournier\documents\visual studio 2013\projects\mvvm-pcl-di\packages\mvvmlightlibs.4.2.30.0\lib\netcore45\microsoft.practices.servicelocation.dll" HashGuid="d3a03fc5-3dbc-3307-e1a1-f478f8f2a94d" />
+    <ReferenceAssembly PathName="c:\users\t.tournier\documents\visual studio 2013\projects\mvvm-pcl-di\model\bin\debug\models.dll" HashGuid="8ae87cdd-97a9-82d5-4803-ec2b88991d29" />
+    <ReferenceAssembly PathName="c:\users\t.tournier\documents\visual studio 2013\projects\mvvm-pcl-di\services\bin\debug\services.dll" HashGuid="96b82c60-b499-84af-ea06-4b91ec73a360" />
+    <ReferenceAssembly PathName="c:\users\t.tournier\documents\visual studio 2013\projects\mvvm-pcl-di\serviceswindows8\bin\debug\serviceswindows8.dll" HashGuid="c4c9e931-c9a4-7c51-f394-2b678a84cc55" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
