@@ -8,8 +8,6 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     >
     <Application.Resources>
-        <ResourceDictionary>
-            <vm:ViewModelLocator x:Key="Locator"  d:IsDataSource="False" />
-        </ResourceDictionary>
+        <vm:ViewModelLocator x:Key="Locator" />
     </Application.Resources>
 </Application>

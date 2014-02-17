@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>NSLTDPN0118</Machine>
+    <WindowsUser>t.tournier</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>e35dd6ad-5b90-48c0-ba01-7f029563627e</PackageIdentityName>
+    <RegisteredManifestChecksum>7252F8BA7EC691384E894CD6B2F2B74CEE91594ABB18E0595C6258AAD8BD8672</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>e35dd6ad-5b90-48c0-ba01-7f029563627e_1.0.0.0_neutral__32ann9f5dz8yy</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>e35dd6ad-5b90-48c0-ba01-7f029563627e_32ann9f5dz8yy!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>e35dd6ad-5b90-48c0-ba01-7f029563627e</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=t.tournier</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\SampleWindows8App\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-17T16:06:44.672</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\SampleWindows8App\bin\Debug\SampleWindows8App.exe">
+      <PackagePath>SampleWindows8App.exe</PackagePath>
+      <Modified>2014-02-17T16:22:38.474</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\packages\MvvmLightLibs.4.2.30.0\lib\netcore45\GalaSoft.MvvmLight.Extras.Win8.dll">
+      <PackagePath>GalaSoft.MvvmLight.Extras.Win8.dll</PackagePath>
+      <Modified>2014-02-14T16:02:31.171</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\packages\MvvmLightLibs.4.2.30.0\lib\netcore45\GalaSoft.MvvmLight.Win8.dll">
+      <PackagePath>GalaSoft.MvvmLight.Win8.dll</PackagePath>
+      <Modified>2014-02-14T16:02:31.200</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\packages\MvvmLightLibs.4.2.30.0\lib\netcore45\Microsoft.Practices.ServiceLocation.dll">
+      <PackagePath>Microsoft.Practices.ServiceLocation.dll</PackagePath>
+      <Modified>2014-02-14T16:02:31.220</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\Model\bin\Debug\Models.dll">
+      <PackagePath>Models.dll</PackagePath>
+      <Modified>2014-02-17T16:21:24.620</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\packages\Newtonsoft.Json.6.0.1\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2014-02-17T15:58:45.709</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\Services\bin\Debug\Services.dll">
+      <PackagePath>Services.dll</PackagePath>
+      <Modified>2014-02-17T16:21:24.972</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\ServicesWindows8\bin\Debug\ServicesWindows8.dll">
+      <PackagePath>ServicesWindows8.dll</PackagePath>
+      <Modified>2014-02-17T16:22:37.802</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\SampleWindows8App\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T05:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\SampleWindows8App\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T05:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\SampleWindows8App\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T05:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\SampleWindows8App\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T05:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\SampleWindows8App\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-02-17T16:06:06.905</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\SampleWindows8App\bin\Debug\UserControls\JeuForainUserControl.xbf">
+      <PackagePath>UserControls\JeuForainUserControl.xbf</PackagePath>
+      <Modified>2014-02-17T16:06:06.906</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\SampleWindows8App\bin\Debug\Views\MainPage.xbf">
+      <PackagePath>Views\MainPage.xbf</PackagePath>
+      <Modified>2014-02-17T16:06:06.906</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\SampleWindows8App\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-02-17T16:06:44.327</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

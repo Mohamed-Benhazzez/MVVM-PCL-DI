@@ -1,0 +1,61 @@
+﻿<samplemodel:SampleJeuForainCollection
+    xmlns:samplemodel="clr-namespace:Models.Sample;assembly=Models"
+    xmlns:collection="using:System.Collections.ObjectModel"
+    >
+    <model:JeuForain
+        xmlns:model="clr-namespace:Models;assembly=Models"
+        Categorie="Attraction"
+        Arrondissement="18e arrondissement"
+        Horraires="16h-23h"
+        Lieux="Place des fêtes"
+    />
+    <model:JeuForain
+        xmlns:model="clr-namespace:Models;assembly=Models"
+        Categorie="Attraction"
+        Arrondissement="18e arrondissement"
+        Horraires="16h-23h"
+        Lieux="Place des fêtes"
+    />
+    <model:JeuForain
+        xmlns:model="clr-namespace:Models;assembly=Models"
+        Categorie="Attraction"
+        Arrondissement="18e arrondissement"
+        Horraires="16h-23h"
+        Lieux="Place des fêtes"
+    />
+    <model:JeuForain
+        xmlns:model="clr-namespace:Models;assembly=Models"
+        Categorie="Attraction"
+        Arrondissement="18e arrondissement"
+        Horraires="16h-23h"
+        Lieux="Place des fêtes"
+    />
+    <model:JeuForain
+        xmlns:model="clr-namespace:Models;assembly=Models"
+        Categorie="Attraction"
+        Arrondissement="18e arrondissement"
+        Horraires="16h-23h"
+        Lieux="Place des fêtes"
+    />
+    <model:JeuForain
+        xmlns:model="clr-namespace:Models;assembly=Models"
+        Categorie="Attraction"
+        Arrondissement="18e arrondissement"
+        Horraires="16h-23h"
+        Lieux="Place des fêtes"
+    />
+    <model:JeuForain
+        xmlns:model="clr-namespace:Models;assembly=Models"
+        Categorie="Attraction"
+        Arrondissement="18e arrondissement"
+        Horraires="16h-23h"
+        Lieux="Place des fêtes"
+    />
+    <model:JeuForain
+        xmlns:model="clr-namespace:Models;assembly=Models"
+        Categorie="Attraction"
+        Arrondissement="18e arrondissement"
+        Horraires="16h-23h"
+        Lieux="Place des fêtes"
+    />
+</samplemodel:SampleJeuForainCollection>

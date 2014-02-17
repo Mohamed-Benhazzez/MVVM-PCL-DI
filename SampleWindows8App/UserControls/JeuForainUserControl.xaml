@@ -10,7 +10,7 @@
     d:DesignWidth="400">
 
     <Grid d:DataContext="{d:DesignData Source=/SampleData/SampleJeuForain.xaml}" 
-          Height="50" Width="300" Background="Blue">
+          Height="50"  Background="Blue">
         <Grid.RowDefinitions>
             <RowDefinition Height="*" />
             <RowDefinition Height="*" />

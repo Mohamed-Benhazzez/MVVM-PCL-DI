@@ -1,7 +1,0 @@
-﻿<model:JeuForain
-        xmlns:model="using:Models"
-        Categorie="Attraction"
-        Arrondissement="18e arrondissement"
-        Horraires="16h-23h"
-        Lieux="Place des fêtes" />
-

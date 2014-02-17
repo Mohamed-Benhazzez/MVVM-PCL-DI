@@ -1,23 +1,23 @@
-C:\Users\t.tournier\Documents\Visual Studio 2013\Projects\MVVM-PCL-DI\ServicesWindows8\bin\Debug\ServicesWindows8.dll
-C:\Users\t.tournier\Documents\Visual Studio 2013\Projects\MVVM-PCL-DI\ServicesWindows8\bin\Debug\ServicesWindows8.pdb
-C:\Users\t.tournier\Documents\Visual Studio 2013\Projects\MVVM-PCL-DI\ServicesWindows8\bin\Debug\ServicesWindows8.pri
-C:\Users\t.tournier\Documents\Visual Studio 2013\Projects\MVVM-PCL-DI\ServicesWindows8\bin\Debug\Models.dll
-C:\Users\t.tournier\Documents\Visual Studio 2013\Projects\MVVM-PCL-DI\ServicesWindows8\bin\Debug\Services.dll
-C:\Users\t.tournier\Documents\Visual Studio 2013\Projects\MVVM-PCL-DI\ServicesWindows8\bin\Debug\Newtonsoft.Json.dll
-C:\Users\t.tournier\Documents\Visual Studio 2013\Projects\MVVM-PCL-DI\ServicesWindows8\bin\Debug\Models.pdb
-C:\Users\t.tournier\Documents\Visual Studio 2013\Projects\MVVM-PCL-DI\ServicesWindows8\bin\Debug\Services.pdb
-C:\Users\t.tournier\Documents\Visual Studio 2013\Projects\MVVM-PCL-DI\ServicesWindows8\bin\Debug\Newtonsoft.Json.xml
-C:\Users\t.tournier\Documents\Visual Studio 2013\Projects\MVVM-PCL-DI\ServicesWindows8\obj\Debug\ServicesWindows8.csprojResolveAssemblyReference.cache
-C:\Users\t.tournier\Documents\Visual Studio 2013\Projects\MVVM-PCL-DI\ServicesWindows8\obj\Debug\ServicesWindows8.dll
-C:\Users\t.tournier\Documents\Visual Studio 2013\Projects\MVVM-PCL-DI\ServicesWindows8\obj\Debug\ServicesWindows8.pdb
-C:\Users\t.tournier\Documents\Visual Studio 2013\Projects\MVVM-PCL-DI\ServicesWindows8\obj\Debug\priconfig.xml
-C:\Users\t.tournier\Documents\Visual Studio 2013\Projects\MVVM-PCL-DI\ServicesWindows8\obj\Debug\priconfig.xml.intermediate
-C:\Users\t.tournier\Documents\Visual Studio 2013\Projects\MVVM-PCL-DI\ServicesWindows8\obj\Debug\layout.resfiles
-C:\Users\t.tournier\Documents\Visual Studio 2013\Projects\MVVM-PCL-DI\ServicesWindows8\obj\Debug\layout.resfiles.intermediate
-C:\Users\t.tournier\Documents\Visual Studio 2013\Projects\MVVM-PCL-DI\ServicesWindows8\obj\Debug\resources.resfiles
-C:\Users\t.tournier\Documents\Visual Studio 2013\Projects\MVVM-PCL-DI\ServicesWindows8\obj\Debug\resources.resfiles.intermediate
-C:\Users\t.tournier\Documents\Visual Studio 2013\Projects\MVVM-PCL-DI\ServicesWindows8\obj\Debug\pri.resfiles
-C:\Users\t.tournier\Documents\Visual Studio 2013\Projects\MVVM-PCL-DI\ServicesWindows8\obj\Debug\pri.resfiles.intermediate
-C:\Users\t.tournier\Documents\Visual Studio 2013\Projects\MVVM-PCL-DI\ServicesWindows8\obj\Debug\qualifiers.txt
-C:\Users\t.tournier\Documents\Visual Studio 2013\Projects\MVVM-PCL-DI\ServicesWindows8\obj\Debug\qualifiers.txt.intermediate
-C:\Users\t.tournier\Documents\Visual Studio 2013\Projects\MVVM-PCL-DI\ServicesWindows8\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\ServicesWindows8\bin\Debug\ServicesWindows8.dll
+C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\ServicesWindows8\bin\Debug\ServicesWindows8.pdb
+C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\ServicesWindows8\bin\Debug\ServicesWindows8.pri
+C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\ServicesWindows8\bin\Debug\Models.dll
+C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\ServicesWindows8\bin\Debug\Newtonsoft.Json.dll
+C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\ServicesWindows8\bin\Debug\Services.dll
+C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\ServicesWindows8\bin\Debug\Models.pdb
+C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\ServicesWindows8\bin\Debug\Services.pdb
+C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\ServicesWindows8\bin\Debug\Newtonsoft.Json.xml
+C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\ServicesWindows8\obj\Debug\ServicesWindows8.csprojResolveAssemblyReference.cache
+C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\ServicesWindows8\obj\Debug\ServicesWindows8.dll
+C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\ServicesWindows8\obj\Debug\ServicesWindows8.pdb
+C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\ServicesWindows8\obj\Debug\priconfig.xml
+C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\ServicesWindows8\obj\Debug\priconfig.xml.intermediate
+C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\ServicesWindows8\obj\Debug\layout.resfiles
+C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\ServicesWindows8\obj\Debug\layout.resfiles.intermediate
+C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\ServicesWindows8\obj\Debug\resources.resfiles
+C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\ServicesWindows8\obj\Debug\resources.resfiles.intermediate
+C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\ServicesWindows8\obj\Debug\pri.resfiles
+C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\ServicesWindows8\obj\Debug\pri.resfiles.intermediate
+C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\ServicesWindows8\obj\Debug\qualifiers.txt
+C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\ServicesWindows8\obj\Debug\qualifiers.txt.intermediate
+C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\ServicesWindows8\obj\Debug\MultipleQualifiersPerDimensionFound.txt

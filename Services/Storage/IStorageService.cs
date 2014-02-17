@@ -9,8 +9,8 @@ namespace Services.Storage
 {
     public interface IStorageService
     {
-        void StoreJeuxForains(List<JeuForain> listToStore);
+        Task<bool> StoreJeuxForains(List<JeuForain> listToStore);
 
-        List<JeuForain> RetrieveJeuxForains();
+        Task<List<JeuForain>> RetrieveJeuxForains();
     }
 }

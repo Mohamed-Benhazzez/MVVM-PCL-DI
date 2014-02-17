@@ -89,9 +89,9 @@ namespace Services.Data
 
         }
 
-        public bool LoadLocalJeuxForains()
+        public async Task<bool> LoadLocalJeuxForains()
         {
-            var jeux = _storageService.RetrieveJeuxForains();
+            var jeux = await _storageService.RetrieveJeuxForains();
 
             if (jeux != null)
             {
@@ -106,10 +106,10 @@ namespace Services.Data
             return false;
         }
 
-        public void StoreLocalJeuxForains(List<JeuForain> listToStore)
+        public async void StoreLocalJeuxForains(List<JeuForain> listToStore)
         {
             if (listToStore != null)
-                _storageService.StoreJeuxForains(listToStore);
+                await _storageService.StoreJeuxForains(listToStore);
         }
 
         #endregion

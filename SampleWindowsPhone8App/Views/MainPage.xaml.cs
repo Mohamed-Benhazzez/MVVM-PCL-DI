@@ -9,7 +9,7 @@ using Microsoft.Phone.Controls;
 using Microsoft.Phone.Shell;
 using SampleWindowsPhone8App.Resources;
 
-namespace SampleWindowsPhone8App
+namespace SampleWindowsPhone8App.Views
 {
     public partial class MainPage : PhoneApplicationPage
     {

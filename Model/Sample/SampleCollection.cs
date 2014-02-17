@@ -1,14 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Collections.ObjectModel;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.ObjectModel;
 
 namespace Models.Sample
 {
-    public class SampleJeuForainCollection :ObservableCollection<JeuForain>
+    public class SampleJeuForainCollection : ObservableCollection<JeuForain>
     {
-
     }
 }

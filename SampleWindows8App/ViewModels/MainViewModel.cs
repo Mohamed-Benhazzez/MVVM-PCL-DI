@@ -63,7 +63,9 @@ namespace SampleWindows8App.ViewModels
         public async void RefreshData()
         {
             if (await DataManager.Instance.LoadOnlineJeuxForains())
-                RaisePropertyChanged(() => AllJeuxForains);
+            {
+                RaisePropertyChanged(() => AllJeuxForains);  
+            }
         }
         #endregion
     }

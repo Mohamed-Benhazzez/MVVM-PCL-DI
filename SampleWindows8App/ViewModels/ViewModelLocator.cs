@@ -1,4 +1,5 @@
-﻿using GalaSoft.MvvmLight.Ioc;
+﻿using GalaSoft.MvvmLight;
+using GalaSoft.MvvmLight.Ioc;
 using Microsoft.Practices.ServiceLocation;
 using Services.Storage;
 using Services.Web;
@@ -10,11 +11,12 @@ namespace SampleWindows8App.ViewModels
         static ViewModelLocator()
         {
             ServiceLocator.SetLocatorProvider(() => SimpleIoc.Default);
-
-            SimpleIoc.Default.Register<IStorageService, ServicesWindows8.Storage.StorageService>();
-            SimpleIoc.Default.Register<IJeuxForainsAPIService, Services.Web.JeuxForainsAPIService>();
-            //register other services
-
+            if (!ViewModelBase.IsInDesignModeStatic)
+            {
+                SimpleIoc.Default.Register<IStorageService, ServicesWindows8.Storage.StorageService>();
+                SimpleIoc.Default.Register<IJeuxForainsAPIService, Services.Web.JeuxForainsAPIService>();
+                //register other services
+            }
             SimpleIoc.Default.Register<MainViewModel>();
             //register other view models
         }
