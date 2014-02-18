@@ -14,7 +14,7 @@ namespace SampleWindowsPhone8App.ViewModels
             if (!ViewModelBase.IsInDesignModeStatic)
             {
                 SimpleIoc.Default.Register<IStorageService, ServicesWindowsPhone8.Storage.StorageService>();
-                SimpleIoc.Default.Register<IJeuxForainsAPIService, Services.Web.JeuxForainsAPIService>();
+                SimpleIoc.Default.Register<IJeuxForainsAPIService, Services.Web.JeuxForainsAPIOpenDataService>();
                 //register other services
             }
             SimpleIoc.Default.Register<MainViewModel>();

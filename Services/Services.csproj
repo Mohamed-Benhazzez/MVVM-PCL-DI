@@ -40,7 +40,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Storage\IStorageService.cs" />
     <Compile Include="Web\IJeuxForainsAPIService.cs" />
-    <Compile Include="Web\JeuxForainsAPIService.cs" />
+    <Compile Include="Web\JeuxForainsAPIOpenDataService.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Model\Models.csproj">
