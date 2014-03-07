@@ -1,6 +1,7 @@
 ﻿using GalaSoft.MvvmLight;
 using GalaSoft.MvvmLight.Ioc;
 using Microsoft.Practices.ServiceLocation;
+using Services.Manager;
 using Services.Storage;
 using Services.Web;
 
@@ -15,6 +16,8 @@ namespace SampleWindowsPhone8App.ViewModels
             {
                 SimpleIoc.Default.Register<IStorageService, ServicesWindowsPhone8.Storage.StorageService>();
                 SimpleIoc.Default.Register<IJeuxForainsAPIService, Services.Web.JeuxForainsAPIOpenDataService>();
+
+                DataManager.Instance.Initialize((IStorageService)SimpleIoc.Default.GetInstance(typeof(IStorageService)), (IJeuxForainsAPIService)SimpleIoc.Default.GetInstance(typeof(IJeuxForainsAPIService)));
                 //register other services
             }
             SimpleIoc.Default.Register<MainViewModel>();

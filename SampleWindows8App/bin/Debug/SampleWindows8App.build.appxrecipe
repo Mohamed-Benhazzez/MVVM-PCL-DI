@@ -3,9 +3,11 @@
   <PropertyGroup>
     <Machine>NSLTDPN0118</Machine>
     <WindowsUser>t.tournier</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>e35dd6ad-5b90-48c0-ba01-7f029563627e</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\SampleWindows8App\obj\Debug\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
     <AppXManifest Include="C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\SampleWindows8App\bin\Debug\AppxManifest.xml">
@@ -29,14 +31,23 @@
     <AppxPackagedFile Include="C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\Model\bin\Debug\Models.dll">
       <PackagePath>Models.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\packages\Newtonsoft.Json.6.0.1\lib\netcore45\Newtonsoft.Json.dll">
-      <PackagePath>Newtonsoft.Json.dll</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\Services\bin\Debug\Services.dll">
       <PackagePath>Services.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\ServicesWindows8\bin\Debug\ServicesWindows8.dll">
       <PackagePath>ServicesWindows8.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\Model\bin\Debug\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\packages\Microsoft.Net.Http.2.2.18\lib\portable-net40+sl4+win8+wp71\System.Net.Http.dll">
+      <PackagePath>System.Net.Http.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\packages\Microsoft.Net.Http.2.2.18\lib\portable-net40+sl4+win8+wp71\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\packages\Microsoft.Net.Http.2.2.18\lib\portable-net40+sl4+win8+wp71\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\SampleWindows8App\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
@@ -57,8 +68,8 @@
     <AppxPackagedFile Include="C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\SampleWindows8App\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\SampleWindows8App\bin\Debug\UserControls\JeuForainUserControl.xbf">
-      <PackagePath>UserControls\JeuForainUserControl.xbf</PackagePath>
+    <AppxPackagedFile Include="C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\SampleWindows8App\bin\Debug\Views\UserControls\JeuForainUserControl.xbf">
+      <PackagePath>Views\UserControls\JeuForainUserControl.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\SampleWindows8App\bin\Debug\Views\MainPage.xbf">
       <PackagePath>Views\MainPage.xbf</PackagePath>

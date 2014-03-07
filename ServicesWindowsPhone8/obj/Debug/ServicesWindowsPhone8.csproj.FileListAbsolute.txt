@@ -6,7 +6,9 @@ C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\ServicesWindowsPhone8\Bin\Debug
 C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\ServicesWindowsPhone8\Bin\Debug\System.Net.Http.dll
 C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\ServicesWindowsPhone8\Bin\Debug\System.Net.Http.Primitives.dll
 C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\ServicesWindowsPhone8\Bin\Debug\Models.pdb
+C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\ServicesWindowsPhone8\Bin\Debug\Models.pri
 C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\ServicesWindowsPhone8\Bin\Debug\Services.pdb
+C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\ServicesWindowsPhone8\Bin\Debug\Services.pri
 C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\ServicesWindowsPhone8\Bin\Debug\Newtonsoft.Json.xml
 C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\ServicesWindowsPhone8\Bin\Debug\System.Net.Http.xml
 C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\ServicesWindowsPhone8\Bin\Debug\System.Net.Http.Primitives.xml

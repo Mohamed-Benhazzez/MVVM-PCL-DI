@@ -8,7 +8,7 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d"
     
-    xmlns:userControls="using:SampleWindows8App.UserControls"
+    xmlns:userControls="using:SampleWindows8App.Views.UserControls"
     DataContext="{Binding Main,Source={StaticResource Locator}}"
     >
 

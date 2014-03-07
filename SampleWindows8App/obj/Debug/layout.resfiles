@@ -3,5 +3,5 @@ Assets\SmallLogo.scale-100.png
 Assets\SplashScreen.scale-100.png
 Assets\StoreLogo.scale-100.png
 App.xbf
-UserControls\JeuForainUserControl.xbf
 Views\MainPage.xbf
+Views\UserControls\JeuForainUserControl.xbf

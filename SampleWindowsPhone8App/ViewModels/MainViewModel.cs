@@ -1,7 +1,7 @@
 ﻿using GalaSoft.MvvmLight;
 using GalaSoft.MvvmLight.Command;
 using Models;
-using Services.Data;
+using Services.Manager;
 using Services.Storage;
 using Services.Web;
 using System;
@@ -22,11 +22,25 @@ namespace SampleWindowsPhone8App.ViewModels
         #endregion
 
         #region fields
+        private ObservableCollection<JeuForain> _allJeuxForains;
         public ObservableCollection<JeuForain> AllJeuxForains
         {
             get
             {
-                return new ObservableCollection<JeuForain>(DataManager.Instance.AllLoadedJeuxForrains);
+                return _allJeuxForains;
+            }
+            set
+            {
+                _allJeuxForains = value;
+                RaisePropertyChanged(() => AllJeuxForains);
+            }
+        }
+
+        public bool IsInitialized
+        {
+            get
+            {
+                return DataManager.Instance.IsInitialized;
             }
         }
         #endregion
@@ -63,11 +77,11 @@ namespace SampleWindowsPhone8App.ViewModels
         public async void RefreshData()
         {
             if (await DataManager.Instance.LoadLocalJeuxForains())
-                RaisePropertyChanged(() => AllJeuxForains);
+                AllJeuxForains= new ObservableCollection<JeuForain>(DataManager.Instance.AllLoadedJeuxForrains);
 
             if (await DataManager.Instance.LoadOnlineJeuxForains())
             {
-                RaisePropertyChanged(() => AllJeuxForains);
+                AllJeuxForains= new ObservableCollection<JeuForain>(DataManager.Instance.AllLoadedJeuxForrains);
                 DataManager.Instance.StoreLocalJeuxForains(AllJeuxForains.ToList());
             }
         }

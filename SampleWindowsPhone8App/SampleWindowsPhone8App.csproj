@@ -94,7 +94,7 @@
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
     <Compile Include="LocalizedStrings.cs" />
-    <Compile Include="UserControls\JeuForainUserControl.xaml.cs">
+    <Compile Include="Views\UserControls\JeuForainUserControl.xaml.cs">
       <DependentUpon>JeuForainUserControl.xaml</DependentUpon>
     </Compile>
     <Compile Include="ViewModels\MainViewModel.cs" />
@@ -122,7 +122,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </None>
-    <Page Include="UserControls\JeuForainUserControl.xaml">
+    <Page Include="Views\UserControls\JeuForainUserControl.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

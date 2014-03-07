@@ -5,7 +5,9 @@ C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\ServicesWindows8\bin\Debug\Mode
 C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\ServicesWindows8\bin\Debug\Newtonsoft.Json.dll
 C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\ServicesWindows8\bin\Debug\Services.dll
 C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\ServicesWindows8\bin\Debug\Models.pdb
+C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\ServicesWindows8\bin\Debug\Models.pri
 C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\ServicesWindows8\bin\Debug\Services.pdb
+C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\ServicesWindows8\bin\Debug\Services.pri
 C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\ServicesWindows8\bin\Debug\Newtonsoft.Json.xml
 C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\ServicesWindows8\obj\Debug\ServicesWindows8.csprojResolveAssemblyReference.cache
 C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\ServicesWindows8\obj\Debug\ServicesWindows8.dll

@@ -20,8 +20,10 @@ C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\SampleWindowsPhone8App\Bin\Debu
 C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\SampleWindowsPhone8App\Bin\Debug\System.Net.Http.dll
 C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\SampleWindowsPhone8App\Bin\Debug\System.Net.Http.Primitives.dll
 C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\SampleWindowsPhone8App\Bin\Debug\Models.pdb
+C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\SampleWindowsPhone8App\Bin\Debug\Models.pri
 C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\SampleWindowsPhone8App\Bin\Debug\ServicesWindowsPhone8.pdb
 C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\SampleWindowsPhone8App\Bin\Debug\Services.pdb
+C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\SampleWindowsPhone8App\Bin\Debug\Services.pri
 C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\SampleWindowsPhone8App\Bin\Debug\GalaSoft.MvvmLight.Extras.WP8.pdb
 C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\SampleWindowsPhone8App\Bin\Debug\GalaSoft.MvvmLight.Extras.WP8.xml
 C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\SampleWindowsPhone8App\Bin\Debug\GalaSoft.MvvmLight.WP8.pdb
@@ -32,6 +34,7 @@ C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\SampleWindowsPhone8App\Bin\Debu
 C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\SampleWindowsPhone8App\Bin\Debug\System.Net.Http.Primitives.xml
 C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\SampleWindowsPhone8App\obj\Debug\SampleWindowsPhone8App.csprojResolveAssemblyReference.cache
 C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\SampleWindowsPhone8App\obj\Debug\App.g.cs
+C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\SampleWindowsPhone8App\obj\Debug\Views\UserControls\JeuForainUserControl.g.cs
 C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\SampleWindowsPhone8App\obj\Debug\Views\MainPage.g.cs
 C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\SampleWindowsPhone8App\obj\Debug\SampleWindowsPhone8App.g.resources
 C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\SampleWindowsPhone8App\obj\Debug\SampleWindowsPhone8App.Resources.AppResources.resources
@@ -39,4 +42,3 @@ C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\SampleWindowsPhone8App\obj\Debu
 C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\SampleWindowsPhone8App\obj\Debug\SampleWindowsPhone8App.dll
 C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\SampleWindowsPhone8App\obj\Debug\SampleWindowsPhone8App.pdb
 C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\SampleWindowsPhone8App\obj\Debug\XapCacheFile.xml
-C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\SampleWindowsPhone8App\obj\Debug\UserControls\JeuForainUserControl.g.cs
