@@ -75,11 +75,18 @@ namespace SampleWindowsPhone8App.ViewModels
         public async void RefreshData()
         {
             if (await DataManager.Instance.LoadLocalJeuxForains())
-                AllJeuxForains= new ObservableCollection<JeuForain>(DataManager.Instance.AllLoadedJeuxForrains);
+            {
+                AllJeuxForains.Clear();
+                foreach (var item in DataManager.Instance.AllLoadedJeuxForrains)
+                    AllJeuxForains.Add(item);
+            }
 
             if (await DataManager.Instance.LoadOnlineJeuxForains())
             {
-                AllJeuxForains= new ObservableCollection<JeuForain>(DataManager.Instance.AllLoadedJeuxForrains);
+                AllJeuxForains.Clear();
+                foreach (var item in DataManager.Instance.AllLoadedJeuxForrains)
+                    AllJeuxForains.Add(item);
+
                 DataManager.Instance.StoreLocalJeuxForains(AllJeuxForains.ToList());
             }
         }

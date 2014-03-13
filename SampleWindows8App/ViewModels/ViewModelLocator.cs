@@ -16,9 +16,10 @@ namespace SampleWindows8App.ViewModels
             {
                 SimpleIoc.Default.Register<IStorageService, ServicesWindows8.Storage.StorageService>();
                 SimpleIoc.Default.Register<IJeuxForainsAPIService, Services.Web.JeuxForainsAPIOpenDataService>();
+                //register other services
 
                 DataManager.Instance.Initialize((IStorageService)SimpleIoc.Default.GetInstance(typeof(IStorageService)),(IJeuxForainsAPIService) SimpleIoc.Default.GetInstance(typeof(IJeuxForainsAPIService)));
-                //register other services
+               
             }
             SimpleIoc.Default.Register<MainViewModel>();
             //register other view models

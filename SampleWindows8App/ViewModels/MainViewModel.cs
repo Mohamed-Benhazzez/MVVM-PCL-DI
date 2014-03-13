@@ -68,7 +68,9 @@ namespace SampleWindows8App.ViewModels
         {
             if (await DataManager.Instance.LoadOnlineJeuxForains())
             {
-                AllJeuxForains= new ObservableCollection<JeuForain>(DataManager.Instance.AllLoadedJeuxForrains);
+                AllJeuxForains.Clear();
+                foreach (var item in DataManager.Instance.AllLoadedJeuxForrains)
+                    AllJeuxForains.Add(item);
             }
         }
         #endregion
