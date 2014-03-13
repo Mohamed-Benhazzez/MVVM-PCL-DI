@@ -3,3 +3,7 @@
 *.pdb
 *.pdb
 *.cache
+*.exe
+*.pdb
+*.cache
+*.cache
