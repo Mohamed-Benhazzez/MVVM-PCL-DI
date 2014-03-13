@@ -18,7 +18,7 @@ namespace Services.Web
         /// </summary>
         public const string JEUXFORAINSURL = @"http://parisdata.opendatasoft.com/api/records/1.0/search?dataset=maneges_et_jeux_2012&facet=arrt&facet=categorie_de_jeux_forains";
         
-        public async Task<List<JeuForain>> GetJeuxForainsAsync()
+        public async Task<IList<JeuForain>> GetJeuxForainsAsync()
         {
             try
             {
@@ -34,7 +34,7 @@ namespace Services.Web
 
                     var records = Newtonsoft.Json.JsonConvert.DeserializeObject<List<APIJeuxForainsRecord>>(json["records"].ToString());
 
-                    List<JeuForain> values = new List<JeuForain>();
+                    IList<JeuForain> values = new List<JeuForain>();
 
                     foreach (var jeux in records)
                         values.Add(jeux.Value);

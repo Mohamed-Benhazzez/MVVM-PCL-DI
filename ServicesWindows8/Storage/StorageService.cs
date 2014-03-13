@@ -12,7 +12,7 @@ namespace ServicesWindows8.Storage
     public class StorageService : IStorageService
     {
 
-        public async Task<bool> StoreJeuxForains(List<Models.JeuForain> listToStore)
+        public async Task<bool> StoreJeuxForains(IList<Models.JeuForain> listToStore)
         {
             try
             {
@@ -30,11 +30,11 @@ namespace ServicesWindows8.Storage
             return false;
         }
 
-        public async Task<List<Models.JeuForain>> RetrieveJeuxForains()
+        public async Task<IList<Models.JeuForain>> RetrieveJeuxForains()
         {
             try
             {
-                List<Models.JeuForain> listObject;
+                IList<Models.JeuForain> listObject;
                 StorageFile filestream = await GetStorageFile("JeuxForains.Save");
 
 

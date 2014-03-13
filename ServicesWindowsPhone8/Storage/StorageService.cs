@@ -13,7 +13,7 @@ namespace ServicesWindowsPhone8.Storage
     public class StorageService : IStorageService
     {
 
-        public async Task<bool> StoreJeuxForains(List<Models.JeuForain> listToStore)
+        public async Task<bool> StoreJeuxForains(IList<Models.JeuForain> listToStore)
         {
             try
             {
@@ -35,12 +35,12 @@ namespace ServicesWindowsPhone8.Storage
             return false;
         }
 
-        public async Task<List<Models.JeuForain>> RetrieveJeuxForains()
+        public async Task<IList<Models.JeuForain>> RetrieveJeuxForains()
         {
 
             try
             {
-                List<Models.JeuForain> listObject;
+                IList<Models.JeuForain> listObject;
                 string json;
                 using (IsolatedStorageFileStream filestream = GetStorageFile("JeuxForains.Save", FileAccess.Read))
                 {

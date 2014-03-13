@@ -9,6 +9,6 @@ namespace Services.Web
 {
     public interface IJeuxForainsAPIService
     {
-        Task<List<JeuForain>> GetJeuxForainsAsync();
+        Task<IList<JeuForain>> GetJeuxForainsAsync();
     }
 }

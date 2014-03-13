@@ -25,7 +25,6 @@ namespace Services.Manager
         private IJeuxForainsAPIService _jeuxForainsApiService;
         #endregion
 
-
         #region multi thread access
 
         private static object syncRoot = new Object();
@@ -106,7 +105,7 @@ namespace Services.Manager
             return false;
         }
 
-        public async void StoreLocalJeuxForains(List<JeuForain> listToStore)
+        public async void StoreLocalJeuxForains(IList<JeuForain> listToStore)
         {
             if (listToStore != null)
                 await _storageService.StoreJeuxForains(listToStore);
