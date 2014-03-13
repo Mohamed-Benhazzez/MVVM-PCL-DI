@@ -1,8 +1,0 @@
-C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\Model\Models.csproj;neutral
-C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\Model\Models.csproj;neutral
-C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\Model\Models.csproj;neutral
-C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\Model\Models.csproj;neutral
-C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\SampleWindows8App\SampleWindows8App.csproj;neutral
-C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\Services\Services.csproj;neutral
-C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\Services\Services.csproj;neutral
-C:\Users\t.tournier\Documents\GitHub\MVVM-PCL-DI\ServicesWindows8\ServicesWindows8.csproj;neutral

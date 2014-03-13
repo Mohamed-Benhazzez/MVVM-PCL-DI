@@ -1,11 +1,7 @@
 <XamlCompilerSaveState>
   <ReferenceAssemblyList>
-    <LocalAssembly PathName="c:\users\t.tournier\documents\github\mvvm-pcl-di\samplewindows8app\obj\debug\intermediatexaml\samplewindows8app.exe" HashGuid="d69d9e0f-8e6c-db8a-82e6-bf28f95c0a0c" />
     <ReferenceAssembly PathName="c:\users\t.tournier\documents\github\mvvm-pcl-di\packages\mvvmlightlibs.4.2.30.0\lib\netcore45\galasoft.mvvmlight.extras.win8.dll" HashGuid="f1644a38-c628-2fde-5283-4e777988788a" />
     <ReferenceAssembly PathName="c:\users\t.tournier\documents\github\mvvm-pcl-di\packages\mvvmlightlibs.4.2.30.0\lib\netcore45\galasoft.mvvmlight.win8.dll" HashGuid="0e89fba1-9317-cee7-b759-aaaceabef9d3" />
     <ReferenceAssembly PathName="c:\users\t.tournier\documents\github\mvvm-pcl-di\packages\mvvmlightlibs.4.2.30.0\lib\netcore45\microsoft.practices.servicelocation.dll" HashGuid="d3a03fc5-3dbc-3307-e1a1-f478f8f2a94d" />
-    <ReferenceAssembly PathName="c:\users\t.tournier\documents\github\mvvm-pcl-di\model\bin\debug\models.dll" HashGuid="8ae87cdd-97a9-82d5-4803-ec2b88991d29" />
-    <ReferenceAssembly PathName="c:\users\t.tournier\documents\github\mvvm-pcl-di\services\bin\debug\services.dll" HashGuid="ee17dcbb-3943-123b-dd57-c5523eecf1da" />
-    <ReferenceAssembly PathName="c:\users\t.tournier\documents\github\mvvm-pcl-di\serviceswindows8\bin\debug\serviceswindows8.dll" HashGuid="3ce9b29c-218b-f3b8-4ec6-04276eb9c615" />
   </ReferenceAssemblyList>
 </XamlCompilerSaveState>

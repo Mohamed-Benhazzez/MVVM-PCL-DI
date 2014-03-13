@@ -16,9 +16,11 @@ namespace SampleWindowsPhone8App.ViewModels
             {
                 SimpleIoc.Default.Register<IStorageService, ServicesWindowsPhone8.Storage.StorageService>();
                 SimpleIoc.Default.Register<IJeuxForainsAPIService, Services.Web.JeuxForainsAPIOpenDataService>();
-
-                DataManager.Instance.Initialize((IStorageService)SimpleIoc.Default.GetInstance(typeof(IStorageService)), (IJeuxForainsAPIService)SimpleIoc.Default.GetInstance(typeof(IJeuxForainsAPIService)));
                 //register other services
+
+                DataManager.Instance.Initialize((IStorageService)SimpleIoc.Default.GetInstance(typeof(IStorageService)),
+                    (IJeuxForainsAPIService)SimpleIoc.Default.GetInstance(typeof(IJeuxForainsAPIService)));
+                
             }
             SimpleIoc.Default.Register<MainViewModel>();
             //register other view models

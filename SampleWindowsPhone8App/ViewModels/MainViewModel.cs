@@ -61,13 +61,11 @@ namespace SampleWindowsPhone8App.ViewModels
 
         #region constructor & initializer
 
-        public MainViewModel(IJeuxForainsAPIService jeuxForainsAPIService, IStorageService storageService)
+        public MainViewModel( IStorageService storageService)
         {
             if (!IsInDesignModeStatic)
             {
                 _storageService = storageService;
-                if (!DataManager.Instance.IsInitialized)
-                    DataManager.Instance.Initialize(storageService, jeuxForainsAPIService);
             }
         }
 
