@@ -27,12 +27,8 @@ namespace SampleWindowsPhone8App.ViewModels
         {
             get
             {
-                return _allJeuxForains;
-            }
-            set
-            {
-                _allJeuxForains = value;
-                RaisePropertyChanged(() => AllJeuxForains);
+                return _allJeuxForains
+                    ?? (_allJeuxForains = new ObservableCollection<JeuForain>());
             }
         }
 
@@ -79,6 +75,7 @@ namespace SampleWindowsPhone8App.ViewModels
                 AllJeuxForains.Clear();
                 foreach (var item in DataManager.Instance.AllLoadedJeuxForrains)
                     AllJeuxForains.Add(item);
+                RaisePropertyChanged(() => AllJeuxForains);
             }
 
             if (await DataManager.Instance.LoadOnlineJeuxForains())
@@ -86,6 +83,7 @@ namespace SampleWindowsPhone8App.ViewModels
                 AllJeuxForains.Clear();
                 foreach (var item in DataManager.Instance.AllLoadedJeuxForrains)
                     AllJeuxForains.Add(item);
+                RaisePropertyChanged(() => AllJeuxForains);
 
                 DataManager.Instance.StoreLocalJeuxForains(AllJeuxForains.ToList());
             }

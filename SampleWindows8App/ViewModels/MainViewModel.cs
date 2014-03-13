@@ -27,12 +27,8 @@ namespace SampleWindows8App.ViewModels
         {
             get
             {
-                return _allJeuxForains;
-            }
-            set
-            {
-                _allJeuxForains = value;
-                RaisePropertyChanged(() => AllJeuxForains);
+                return _allJeuxForains
+                    ?? (_allJeuxForains = new ObservableCollection<JeuForain>());
             }
         }
         #endregion
@@ -71,6 +67,7 @@ namespace SampleWindows8App.ViewModels
                 AllJeuxForains.Clear();
                 foreach (var item in DataManager.Instance.AllLoadedJeuxForrains)
                     AllJeuxForains.Add(item);
+                RaisePropertyChanged(() => AllJeuxForains);
             }
         }
         #endregion
