@@ -1,9 +1,4 @@
-*.cache
-*.exe
-*.pdb
-*.pdb
-*.cache
-*.exe
-*.pdb
-*.cache
-*.cache
+bin/
+obj/
+*.user
+*.suo
